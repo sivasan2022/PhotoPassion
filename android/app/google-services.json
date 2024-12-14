@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72517285738",
+    "project_id": "photopassion-23131",
+    "storage_bucket": "photopassion-23131.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72517285738:android:614e91658c04c4a10a9713",
+        "android_client_info": {
+          "package_name": "com.example.photopassion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrPPTzTMl5EQ6Z5WFTSXWH6QGQ5pA5Q64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
